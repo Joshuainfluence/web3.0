@@ -1,0 +1,12 @@
+create two directories
+-client
+    where the react application will be
+-smart_contract
+    where solidity contract will go 
+
+navigate to client directory
+install react using the command -> npm init vite@latest
+skip project name -> ./
+select framework -> react
+select variant-> javascript
+
