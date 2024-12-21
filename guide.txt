@@ -10,3 +10,7 @@ skip project name -> ./
 select framework -> react
 select variant-> javascript
 
+install tailwindCSS using the commands -> 
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
