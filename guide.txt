@@ -19,3 +19,5 @@ npx tailwindcss init -p
 navigate to the smart_contract directory
 initialize an empty json package -> npm init -y
 
+npm install react-icons ethers to install icons and the ethers is to enable interaction with the blockchain and smartcontract 
+
